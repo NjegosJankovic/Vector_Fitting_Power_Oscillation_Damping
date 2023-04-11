@@ -1,4 +1,4 @@
-# vector_fitting_power_oscillation_damping
+# Multimode Power Oscillation Damping Controller Synthesis using Vector Fitting
 
 This repository includes files used for designing the power oscillation damping controller using vector fitting method.
 
