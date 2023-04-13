@@ -17,10 +17,6 @@ The repository is structured as follows:
 
 Each folder for frequency response includes the transfer function frequency response in the range from 10<sup>-4</sup> to 10<sup>4</sup> Hz. The most relevant points in the frequency response are saved in *_points* file.
 
-### Citing the Paper
-
-If you use these results in your own research or publication, please cite our paper.
-
 ### Contributors
 
 - [Njegos Jankovic](https://orcid.org/0000-0003-3358-069X)<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
@@ -29,6 +25,10 @@ If you use these results in your own research or publication, please cite our pa
 - [Jon Are Suul](https://orcid.org/0000-0003-3491-636X)<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
 - [Salvatore D'Arco](https://orcid.org/0000-0002-9313-8230)<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
 - [Luis Rouco Rodrigez](https://orcid.org/0000-0002-2670-7464)<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+
+### Citing the Paper
+
+If you use these results in your own research or publication, please cite our paper.
 
 ### License
 
